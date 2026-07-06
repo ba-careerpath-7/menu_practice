@@ -1,10 +1,11 @@
 
 # What emoji combination do we like?
 
+for mac, "control" + "command" + "space" gives emojis!
 
 Emoji list (can change depending on pulls and pushes):
 
-1. 💡 (originally 💡)
+1. 🍕 (originally 💡)
 2. 🏆 (originally 🏆)
 3. 👌 (originally 👌)
 4. ⚽️ (originally ⚽️)

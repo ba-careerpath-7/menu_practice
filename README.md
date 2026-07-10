@@ -6,8 +6,8 @@ Emoji list (can change depending on pulls and pushes):
 
 1. 💡 (originally 💡 and 🍉and 👍 and 😃)
 2. ⚽ (originally 🏆and ⭐️and 🐉)
-3. 7️⃣ (originally 👌)
-4. ⚽️ (originally ⚽️)
+3. 🍦 (originally 👌 and 7️⃣)
+4. 🏀 (originally ⚽️)
 5. 🦒 (originally 🦒)
 
 

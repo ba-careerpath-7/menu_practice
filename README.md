@@ -7,7 +7,7 @@ Emoji list (can change depending on pulls and pushes):
 1. 💡 (originally 💡 and 🍉and 👍 and 😃)
 2. ⚽ (originally 🏆and ⭐️and 🐉)
 3. 🦅 (originally 👌 and 7️⃣ and 🐫)
-4. 🎱 (originally ⚽️ and 🏒)
+4. 🌌 (originally ⚽️ and 🏒 and 🎱)
 5. 🦒 (originally 🦒)
 
 
